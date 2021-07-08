@@ -38,6 +38,19 @@ class App extends Component {
       
   }, []); 
 
+ 
+
+  // goToNextFlashcard(); {
+  //   let flashcard = this.state.getFlashcards;
+  //   getFlashcards++;
+  //   if(getFlashcards === this.flashcard.length){
+  //     getFlashcards = 0;
+  //   }
+  //   this.setState({
+  //     getFlashcards: setFlashcards
+  //   });
+  // }
+
 
 // const sample_flashcards = [
 //   {
