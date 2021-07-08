@@ -21,3 +21,4 @@ export default function Flashcard({ flashcard }) {
         </div>
     )
 }
+
